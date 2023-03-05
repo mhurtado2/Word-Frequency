@@ -1,0 +1,16 @@
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\obj\Debug\net5.0\Word-Frequency.csproj.AssemblyReference.cache
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\obj\Debug\net5.0\Word-Frequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\obj\Debug\net5.0\Word-Frequency.AssemblyInfoInputs.cache
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\obj\Debug\net5.0\Word-Frequency.AssemblyInfo.cs
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\obj\Debug\net5.0\Word-Frequency.csproj.CoreCompileInputs.cache
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\bin\Debug\net5.0\Word-Frequency.exe
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\bin\Debug\net5.0\Word-Frequency.deps.json
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\bin\Debug\net5.0\Word-Frequency.runtimeconfig.json
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\bin\Debug\net5.0\Word-Frequency.runtimeconfig.dev.json
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\bin\Debug\net5.0\Word-Frequency.dll
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\bin\Debug\net5.0\ref\Word-Frequency.dll
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\bin\Debug\net5.0\Word-Frequency.pdb
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\obj\Debug\net5.0\Word-Frequency.dll
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\obj\Debug\net5.0\ref\Word-Frequency.dll
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\obj\Debug\net5.0\Word-Frequency.pdb
+C:\Users\15204\workspace\translate-csharp-js\word-frequency\csharp\obj\Debug\net5.0\Word-Frequency.genruntimeconfig.cache
